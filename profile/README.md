@@ -12,12 +12,12 @@ Most of what's here is quiet on purpose — black, white, exact. The name is the
 
 ## What's here
 
-- [foundry](https://github.com/polychrome-studio/foundry) — a harness: the room an agent runs in, mounting a knowledge capsule from outside.
+- [foundry](https://github.com/polychrome-studio/foundry) — a harness: the room an agent runs in, mounting a knowledge bundle from outside.
 - [agent-kit](https://github.com/polychrome-studio/agent-kit) — an agent is a directory. The open, runtime-agnostic shape for one.
 - [dotKnowledge](https://github.com/polychrome-studio/dotKnowledge) — an open, portable knowledge-bundle format, OKF-conformant.
-- [knowledge-kit](https://github.com/polychrome-studio/knowledge-kit) — the template for a `.knowledge` capsule: self, client/brand, or project.
+- [knowledge-kit](https://github.com/polychrome-studio/knowledge-kit) — the template for a `.knowledge` bundle: self, client/brand, or project.
 - [brand-kit](https://github.com/polychrome-studio/brand-kit) — one repo, four sub-kits, for codifying a brand's motion, design, voice, and personas.
-- [skills-kit](https://github.com/polychrome-studio/skills-kit) — how a skill gets addressed from an agent or a capsule.
+- [skills-kit](https://github.com/polychrome-studio/skills-kit) — how a skill gets addressed from an agent or a bundle.
 - [qwertease](https://github.com/polychrome-studio/qwertease) — QWERTY-aware, easing-based typing timing. Types like a person, not a metronome.
 
 `motion.md` (the motion sibling of Google's `design.md`) lives at [inkxel/motion.md](https://github.com/inkxel/motion.md) — personal, not studio.
